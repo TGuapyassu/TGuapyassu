@@ -1,8 +1,12 @@
-## Oii! Eu sou o Tiago Guapyassu, Bem vindo ao meu GitHub!!! Acesse meu Portfolio pelo botão abaixo!
+ ## Oii! Eu sou o Tiago Guapyassu, Bem vindo ao meu GitHub!!! Acesse meu Portfolio pelo botão abaixo!
 
+<div align="center">
 <a href="https://portfolio-tguapyassu.vercel.app/" target="_blank">
   <img height="60" width="150" src="https://img.shields.io/badge/-Portfolio-blue" target="_blank"
 </a>
+</div>
+  
+ ##
   
 <div align="center">
   <a href="https://github.com/TGuapyassu">
