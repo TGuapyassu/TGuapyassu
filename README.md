@@ -1,4 +1,4 @@
-## Oii! Eu sou o Tiago Guapyassu, Bem vindo ao meu GitHub!!! Acesse meu Portfolio 
+## Oii! Eu sou o Tiago Guapyassu, Bem vindo ao meu GitHub!!! Acesse meu Portfolio pelo link abaixo!
 
 [Link do Portfolio](https://portfolio-tguapyassu.vercel.app/)
 
