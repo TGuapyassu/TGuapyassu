@@ -1,7 +1,3 @@
-Aqui está um README aprimorado para o seu perfil do GitHub:
-
----
-
 # Oii! Eu sou o Tiago Guapyassu, Bem-vindo ao meu GitHub! 🚀  
 
 🔹 Desenvolvedor Full Stack apaixonado por tecnologia e soluções inovadoras!  
