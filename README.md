@@ -33,7 +33,7 @@
 <div> 
   <a href="https://www.instagram.com/tguapyassu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tguapyassu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://portfolio-tguapyassu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=book&logoColor=white" target="_blank"></a>
+  <a href="https://www.tguapyassu.com/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=book&logoColor=white" target="_blank"></a>
 </div>
 
 ---
