@@ -79,25 +79,6 @@ Principais objetivos do projeto:
 
 ---
 
-### 🔗 HubAPI
-
-**Plataforma de integração entre sistemas**
-
-Projeto desenvolvido para centralizar e facilitar integrações entre diferentes sistemas através de APIs.
-
-**Stack:** Python, FastAPI, PostgreSQL e Docker.
-
-Principais conceitos:
-
-* APIs REST
-* Integração entre sistemas
-* Serviços backend
-* Persistência de dados
-* Containerização
-* Organização de serviços
-
----
-
 ## 📚 Atualmente estudando
 
 * Arquitetura de Software
