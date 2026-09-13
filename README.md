@@ -2,30 +2,13 @@
 
 ### Software Engineer | Backend Python | FastAPI | APIs & Integrações
 
-Desenvolvedor de Software com experiência em **Python, FastAPI, APIs REST, integrações entre sistemas e automação de processos**.
+Desenvolvedor de Software com experiência em desenvolvimento backend, APIs, integrações entre sistemas e automação de processos.
 
-Atualmente atuo no desenvolvimento de soluções corporativas, trabalhando com backend, integrações, automações, bancos de dados, CI/CD e infraestrutura.
-
-Também desenvolvo projetos próprios para aplicar conceitos de **engenharia de software, arquitetura, APIs e desenvolvimento de produtos**.
+Atualmente foco meus estudos e projetos em engenharia de software, arquitetura, backend Python, APIs, Docker, bancos de dados e integração de sistemas.
 
 ---
 
-## 🚀 Sobre mim
-
-* 🐍 Foco profissional em **Backend Python**
-* ⚡ Experiência com **FastAPI e APIs REST**
-* 🔗 Desenvolvimento de **integrações entre sistemas**
-* 🤖 Automação de processos com Python
-* 🗄️ PostgreSQL, MySQL e Oracle
-* 🐳 Docker e ambientes Linux
-* 🔄 CI/CD com GitHub Actions, GitLab CI/CD e Jenkins
-* 🌐 Experiência complementar com React, Next.js e TypeScript
-* 🎓 Pós-graduando em **Arquitetura de Software**
-* 📍 Rio de Janeiro, Brasil
-
----
-
-## 🛠️ Tecnologias
+## 🛠️ Principais tecnologias
 
 ### Backend
 
